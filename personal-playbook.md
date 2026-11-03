@@ -86,4 +86,4 @@ How I will adapt it to a different project:
 
 What verification must change:
 
-- 
+-
