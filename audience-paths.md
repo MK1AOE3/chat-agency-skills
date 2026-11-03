@@ -5,7 +5,6 @@ Select the nearest track and adapt to the learner's actual needs. Do not infer a
 ## Ages 16–20
 
 Emphasize personal boundaries, study and early-work tasks, privacy, emotional pace, and independent verification. Use realistic examples such as planning revision, improving a draft, preparing for an interview, or organising a project. Do not let the AI make identity, relationship, or life decisions for the learner.
-
 Practice sequence: set a finish line → redact private details → ask for one small step → challenge a confident answer → save a personal prompt.
 
 ## High school
