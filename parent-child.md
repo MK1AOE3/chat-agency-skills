@@ -57,4 +57,4 @@ Each person answers:
 - “We can stop without finishing.”
 - “Would you like help from me, a teacher, or someone else?”
 
-Avoid using the activity to shame mistakes, secretly monitor, or force disclosure of difficult experiences. If a young person may be in immediate danger, use appropriate local emergency or crisis support and stay connected with a trusted person.
+Avoid using the activity to shame mistakes, secretly monitor, or force disclosure of difficult experiences. If a young person may be in immediate danger, use appropriate local emergency or crisis support and stay connected with a trusted person. 
