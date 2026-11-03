@@ -30,4 +30,4 @@ When a chat becomes confusing, pressured, obsessive, or uncomfortable:
 2. Save only a minimal, non-sensitive note if useful.
 3. Step away and change environment.
 4. Speak with a trusted person when support is needed.
-5. Return later with a fresh goal, or do not return. 
+5. Return later with a fresh goal, or do not return.
