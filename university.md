@@ -47,4 +47,4 @@ Use the handoff to begin a fresh chat or collaborate with a person. Remove priva
 - Every cited source has been independently checked.
 - Generated code or analysis has been tested, not merely reviewed visually.
 - AI use complies with course, research, data, and disclosure requirements.
-- You can transfer STEER from research to a group or technical project.
+- You can transfer STEER from research to a group or technical project. 
