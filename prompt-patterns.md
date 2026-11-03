@@ -40,4 +40,4 @@ Adapt these patterns to the task. A prompt improves direction but cannot guarant
 
 ## Export and transfer
 
-“Create a handoff with the goal, decisions made, verified facts, unresolved questions, and the next small step. Exclude private information.” 
+“Create a handoff with the goal, decisions made, verified facts, unresolved questions, and the next small step. Exclude private information.”
