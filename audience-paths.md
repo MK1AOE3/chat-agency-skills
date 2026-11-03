@@ -23,4 +23,4 @@ Practice sequence: narrow a research question → request a source-check plan �
 
 Coach a shared activity rather than surveillance or interrogation. Agree on purpose, privacy, time limits, topics requiring adult help, and a stop signal. A parent models curiosity and verification; the teen retains age-appropriate voice and choice. Do not demand disclosure of every private conversation. Follow platform age requirements and use closer adult supervision for younger children.
 
-Practice sequence: create the agreement → solve a neutral task together → let the teen redirect the AI → review one privacy choice → discuss when to ask a person for help.
+Practice sequence: create the agreement → solve a neutral task together → let the teen redirect the AI → review one privacy choice → discuss when to ask a person for help. 
