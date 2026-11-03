@@ -51,4 +51,4 @@ Prefer observable progress over vague confidence. A learner succeeds when they c
 4. Identify at least one claim or assumption that needs checking.
 5. Redirect an unsuitable answer without restarting repeatedly.
 6. Save a reusable prompt and explain why it works.
-7. Choose to pause or stop when the chat is no longer useful or comfortable.
+7. Choose to pause or stop when the chat is no longer useful or comfortable. 
