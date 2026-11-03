@@ -76,4 +76,4 @@ Write down:
 2. What did you verify yourself?
 3. What will you reuse in a different project?
 
-Continue with the path nearest to your situation, then complete the exercises in `practice/`.
+Continue with the path nearest to your situation, then complete the exercises in `practice/`. 
