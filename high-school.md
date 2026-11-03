@@ -49,4 +49,4 @@ You are ready to transfer the skill when you can:
 
 ## When to involve an adult
 
-Ask a teacher, parent, guardian, or another trusted adult when content feels unsafe, someone requests private information, a chat becomes distressing, or you are unsure whether AI use is allowed.
+Ask a teacher, parent, guardian, or another trusted adult when content feels unsafe, someone requests private information, a chat becomes distressing, or you are unsure whether AI use is allowed. 
