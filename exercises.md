@@ -74,4 +74,4 @@ Use any AI chat for the prompting exercises, or rehearse with another person. Ch
 - Which step most improved your control?
 - Where did the AI still behave unpredictably?
 - Which decisions must remain with you or another person?
-- What will you add to your personal playbook?
+- What will you add to your personal playbook? 
